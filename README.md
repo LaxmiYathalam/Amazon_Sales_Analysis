@@ -1,5 +1,5 @@
-# Amazon_Sales_Analysis
 # Amazon Sales Analysis With SQL
+![Banner](https://github.com/LaxmiYathalam/Amazon_Sales_Analysis/blob/main/amazon_India_Image.png)
 Welcome to the Amazon Sales Analysis project! We’re here to uncover invaluable insights and trends that will empower strategic decision-making and fuel business growth. Through rigorous analysis, we aim to refine sales strategies, gain profound insights into customer behaviour, and pinpoint opportunities to optimize overall business operations.
 
 # Introduction
