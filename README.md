@@ -27,8 +27,9 @@ During our analysis journey, we have addressed several key questions using SQL q
 7. List all orders where the quantity sold is greater than the average quantity sold across all orders.
 8. Find out the top 5 customers who made the highest profits.
 9. Find the details of the top 5 products with the highest total sales, where the total sale for each product is greater than the average sale across all products.
-10. Find Top 5 states by total orders where each state orders is greater than average orders accross state orders.
-11. Identify returning customers: Label customers as "Returning" if they have placed more than one returns otherwise mark them as "New."
+10. Calculate the profit margin percentage for each sale
+11. Find Top 5 states by total orders where each state orders is greater than average orders accross state orders.
+12. Identify returning customers: Label customers as "Returning" if they have placed more than one returns otherwise mark them as "New."
 
 # Getting Started
 To begin your own analysis or explore the dataset further, follow these steps:
